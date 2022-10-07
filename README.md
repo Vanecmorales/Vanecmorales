@@ -1,13 +1,15 @@
 <h1 align="left">Hi 👋, I'm Vanessa Castro, please call me Vane</h1>
 <h3 align="left">Frontend developer based in Chile</h3>
 
-- 🌱 I’m currently learning **about React.js**
+- 🌱 I’m currently learning about React.js
 
-- 💬 Ask me about **JavaScript, Responsive desing, mobile first, SPA**
+- 💬 Ask me about JavaScript, Responsive desing, mobile first, SPA
 
 - 😄 Pronouns: She/her
 
-- ⚡ Fun fact: **I'm Anthropologist too**
+- ⚡ Fun fact: I'm Anthropologist too
+
+- 📩 How to reach me: vanessagm.91@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
