@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: [She/her](She/her)
 
-- ⚡ Fun fact: **I'am Anthropologist too**
+- ⚡ Fun fact: **I'm Anthropologist too**
 
 
 <h3 align="left">Languages and Tools:</h3>
