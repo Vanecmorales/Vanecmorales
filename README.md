@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, Responsive desing, mobile first, SPA**
 
-- 😄 Pronouns: [She/her](She/her)
+- 😄 Pronouns: She/her
 
 - ⚡ Fun fact: **I'm Anthropologist too**
 
