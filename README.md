@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vane</h1>
 <h3 align="left">Frontend developer based in Chile</h3>
 
-- 🌱 I’m currently learning about React.js
+- 🌱 I’m currently learning about Java
 
 - 💬 Ask me about JavaScript, HTML, CSS, Firebase, Responsive desing, mobile first, SPA
 
